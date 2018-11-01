@@ -17,4 +17,8 @@ ssss
 
 deepins new add message
 
+<<<<<<< HEAD
 dsasfddddddddddddd deepin
+
+ssssssssss  win
+
